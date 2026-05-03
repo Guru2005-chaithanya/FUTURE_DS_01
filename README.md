@@ -27,6 +27,6 @@ This project analyzes business sales data using Power BI to identify trends, top
 
 * Power BI Dashboard (.pbix)
 ## 📸 Dashboard Preview
-![Dashboard]
+![Dashboard](https://github.com/Guru2005-chaithanya/FUTURE_DS_01/blob/main/Sales_Dashboard_Task1.pdf)
 * Dataset
 * Dashboard Screenshots
